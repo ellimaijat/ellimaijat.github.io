@@ -43,3 +43,7 @@ fall 2018
 [UNESCO](https://en.unesco.org)
 
 [The future of protein](https://www.beyondmeat.com)
+
+## CV
+
+[CUrriculum Vitae](https://www.overleaf.com/read/ndqvqkvqfkfr)
