@@ -46,4 +46,4 @@ fall 2018
 
 ## CV
 
-[CUrriculum Vitae](https://www.overleaf.com/read/ndqvqkvqfkfr)
+[Curriculum Vitae](https://www.overleaf.com/read/ndqvqkvqfkfr)
