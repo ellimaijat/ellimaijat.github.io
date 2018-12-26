@@ -4,24 +4,42 @@ layout: default
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am a third year French major at the university of Helsinki. As a 
+minor, I have studied communications. My aim is to combine my studies in 
+French and communications around social media use in French-speaking 
+countries.
+My interests also include international development and cooperation. I 
+am currently very interested in the work of intergovernmental 
+organizations and the way they interact with governments and civil 
+society.
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[LinkedIn](https://www.linkedin.com/in/ellimaija-tanskanen-65b885142/), 
+[GitHub](https://github.com/ellimaijat)
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+My email address is ellimaija.tanskanen@helsinki.fi. 
 
 ## Courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+[French linguistics](https://courses.helsinki.fi/fi/405179/125629000), 
+fall 2017
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+[French 
+litterature 2](https://courses.helsinki.fi/fi/KIK-FR221/125699341), 
+spring 2018
+
+[Programming basics](https://courses.helsinki.fi/fi/TKT10002/127140335), 
+fall 2018
 
 ## Projects
 
+[Command-line course](https://github.com/ellimaijat/cmdline-course)
+
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+[UNESCO](https://en.unesco.org)
+
+[The future of protein](https://www.beyondmeat.com)
