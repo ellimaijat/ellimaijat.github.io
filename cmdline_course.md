@@ -1,13 +1,14 @@
 ---
 layout: default
 ---
-## Introduction
+# Introduction
 
 The course was **an introduction to command-line used in terminal on 
 Linux or Unix**. The aim was to introduce to the general use of terminal 
-and 
-different programs in it, but also to give an example of possible uses 
+and different programs in it, but also to give an example of possible uses 
 of Unix/Linux in language technology and linguistics.
+
+# Course content
 
 ## Week 1
 The first week was *an introduction to the topic* of the course and the 
@@ -55,8 +56,8 @@ ignored before. I did not manage to push my work for week six on gitHub
 though because I made a mistake and closed terminal, after which I 
 didn't know how to get it back anymore.
 
-To picture how the course got harder for me and I didn't give more time 
-to the exercices at the end of the course even if I should have, here is 
+To picture how the course got harder for me and I didn't 
+give more time to the exercices at the end of the course even if I should have, here is 
 a table of my quizz results during the course:
 
 Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6
@@ -83,5 +84,6 @@ structure of directories and files on your pcomputer
 not only related to my studies
 * Practice makes perfect and giving up at the smallest difficulty makes 
 the whole course pointless
+* ~~People studying humanities can't learn to code~~
 
 ![alt text](https://img.memecdn.com/command-prompt_o_2150895.jpg)
