@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+The course was an introduction to command-line used in terminal on Linux 
+or Unix. The aim was to introduce to the general use of terminal and 
+different programs in it, but also to give an example of possible uses 
+of Unix/Linux in language technology and linguistics.
 
 ## Week 1
 The first week was an introduction to the topic of the course and the 
