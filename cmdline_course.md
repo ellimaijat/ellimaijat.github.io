@@ -65,3 +65,14 @@ hate programming or I love it, but when you have been stuck on a problem
 for hours and finally manage to solve it, it's a pretty good feeling you 
 don't get that often when your studies are otherwise focused on 
 essay-like tests.
+
+In short, here is what I have learnt on this course:
+* Command-line starts making sense when you start understanding the 
+structure of directories and files on your pcomputer
+* With only a small number of commands, you can do quite a lot
+* Command-line can be useful for many different things in everyday life, 
+not only related to my studies
+* Practice makes perfect and giving up at the smallest difficulty makes 
+the whole course pointless
+
+https://img.memecdn.com/command-prompt_o_2150895.jpg
